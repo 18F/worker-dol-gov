@@ -23,7 +23,8 @@ title: Home
     <div class="usa-grid features">
       <h2 class="usa-grid">Learn about your rights</h2>
       <div class="usa-grid features__grid">
-        {% for right in site.rights | sort: 'name' %}
+        {% assign rights = site.rights | sort: 'order' %}
+        {% for right in rights %}
         <div class="feature">
           <img src="{{ right.icon | prepend: site.baseurl }}" alt="Icon representing {{ right.title }}">
           <h3>{{ right.statement }}</h3>

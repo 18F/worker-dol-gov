@@ -21,7 +21,8 @@ layout: content
           </button>
           <div class="concern__details usa-accordion-content js-concern-details" id="accordion-{{ concern | slugify }}">
             <ul>
-              {% for detail in site.concerns | sort: 'name' %}
+              {% assign details = site.concerns | sort: 'order' %}
+              {% for detail in details %}
                 {% if detail.concern contains concern or detail.concern == concern %}
                 <li><a class="concern__detail" href="{{ detail.url | prepend:site.baseurl }}">{{ detail.summary }} &raquo;</a></li>
                 {% endif %}

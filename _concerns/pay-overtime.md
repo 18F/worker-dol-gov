@@ -8,6 +8,7 @@ concern: I wasn’t paid properly
 detail: overtime
 right: wage-rights
 summary: "I wasn’t paid for my overtime"
+order: 3
 
 # Page content
 blurb: pay

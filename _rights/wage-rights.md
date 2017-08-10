@@ -7,4 +7,5 @@ mission: We are committed to ensuring that workers in this country are paid prop
 summary: Labor laws establish standards for the minimum wage, overtime pay, recordkeeping, family medical leave, and youth employment.
 icon: "/assets/img/icons/icon-payment-red.svg"
 page_icon: "/assets/img/icons/icon-payment-red-uncropped.svg"
+order: 1
 ---

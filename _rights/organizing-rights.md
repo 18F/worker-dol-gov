@@ -8,4 +8,6 @@ summary: Labor laws protect your right to join together with your coworkers, wit
 
 icon: "/assets/img/icons/icon-organize-red.svg"
 page_icon: "/assets/img/icons/icon-organize-red-uncropped.svg"
+
+order: 4
 ---

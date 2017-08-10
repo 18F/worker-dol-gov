@@ -12,4 +12,6 @@ summary: The law forbids discrimination in every aspect of employment – from h
 
 icon: "/assets/img/icons/icon-fair-treatment-red.svg"
 page_icon: "/assets/img/icons/icon-fair-treatment-red-uncropped.svg"
+
+order: 3
 ---

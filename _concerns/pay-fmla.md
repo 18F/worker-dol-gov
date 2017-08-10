@@ -10,6 +10,7 @@ concern:
 detail: family medical leave
 right: wage-rights
 summary: "I’m not getting the family or medical leave I’m entitled to"
+order: 5
 
 # Page content
 blurb: fmla

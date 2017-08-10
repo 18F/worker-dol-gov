@@ -10,6 +10,7 @@ concern:
 detail: child labor
 right: wage-rights
 summary: "I think someone is employing children unlawfully"
+order: 6
 
 # Page content
 blurb: children

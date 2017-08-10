@@ -13,7 +13,8 @@ layout: content
 		<div class="sidebar__box sidebar__box--blue">
 			<h3>Examples</h3>
 			<ul>
-				{% for concern in site.concerns %}
+				{% assign concerns = site.concerns | sort: 'order' %}
+				{% for concern in concerns %}
 					{% if concern.right == page.right and concern.summary %}
 						<li><a href="{{ concern.url | prepend:site.baseurl }}">{{concern.summary}}</a></li>
 					{% endif %}

@@ -8,6 +8,7 @@ concern: I wasn’t paid properly
 detail: recordkeeping
 right: wage-rights
 summary: "My employer isn’t keeping records of my hours or pay"
+order: 4
 
 # Page content
 blurb: records

@@ -34,7 +34,7 @@ collections:
     permalink: /:collection/:path/
   rights:
     output: true
-    permalink: /:collection/:path/    
+    permalink: /:collection/:path/
   worker-profiles:
     output: true
   concerns:

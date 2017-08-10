@@ -7,4 +7,5 @@ mission: We assure safe and healthy working conditions by setting and enforcing 
 summary: Employers are responsible for providing a safe and healthy workplace, along with any necessary safety gear.
 icon: "/assets/img/icons/icon-safety-red.svg"
 page_icon: "/assets/img/icons/icon-safety-red-uncropped.svg"
+order: 2
 ---
