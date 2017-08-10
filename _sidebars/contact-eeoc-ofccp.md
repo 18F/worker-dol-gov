@@ -1,12 +1,10 @@
 ---
 ---
 
-If your employer works with the federal government, please call the Office of Federal Contract Compliance Programs (OFCCP) at 1-800-397-6251.
+The Office of Federal Contract Compliance Programs and Equal Employment Opportunity Commission work together to coordinate investigation of race, color, religion, sex, gender identity, sexual orientation, disability, genetic information, or national origin complaints. For more information, please contact:
 
-Otherwise, please contact the Equal Employment Opportunity Commission (EEOC):
-
-- 1-800-669-4000
-- <info@eeoc.gov>
+- Office of Federal Contract Compliance Programs (OFCCP) at 1-800-397-6251
+- Equal Employment Opportunity Commission (EEOC) at 1-800-669-4000 or <info@eeoc.gov>
 
 All services are free and confidential. We will not disclose any information to your employer unless you decide to file a formal complaint.
 
