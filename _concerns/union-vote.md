@@ -24,5 +24,5 @@ related_links:
   - title: "Employer / Union Rights and Obligations"
     url: https://www.nlrb.gov/rights-we-protect/employerunion-rights-and-obligations
 sidebars:
-  - contact nlrb
+  - contact-nlrb
 ---
