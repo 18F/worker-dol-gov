@@ -1,7 +1,7 @@
 ---
 ---
 
-Please call the Occupational Safety and Health Administration (OSHA) at 1-800-321-6742.
+Please call OSHA at 1-800-321-6742.
 
 All services are free and confidential. We will not disclose any information to your employer unless you decide to file a formal complaint.
 
