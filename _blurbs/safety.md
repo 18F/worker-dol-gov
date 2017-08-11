@@ -6,12 +6,12 @@ Under federal law, you are entitled to a safe workplace. Your employer must prov
 
 You also have the right to:
 
-- Be trained in a language you understand
-- Work on machines that are safe
-- Be provided required safety gear, such as gloves or a harness and lifeline for falls
-- Be protected from toxic chemicals
-- Request an inspection from the Occupational Safety and Health Administration (OSHA), and speak to the inspector
-- Report an injury or illness, and get copies of your medical records
-- See copies of the workplace injury and illness log
-- Review records of work-related injuries and illnesses
-- Get copies of test results done to find hazards in the workplace
+- be trained in a language you understand
+- work on machines that are safe
+- be provided required safety gear, such as gloves or a harness and lifeline for falls
+- be protected from toxic chemicals
+- request an inspection from the Occupational Safety and Health Administration (OSHA), and speak to the inspector
+- report an injury or illness, and get copies of your medical records
+- see copies of the workplace injury and illness log
+- review records of work-related injuries and illnesses
+- get copies of test results done to find hazards in the workplace
