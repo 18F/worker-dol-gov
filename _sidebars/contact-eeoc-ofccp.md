@@ -5,14 +5,8 @@ The Office of Federal Contract Compliance Programs (OFCCP) and Equal Employment 
 
 For more information, please contact:
 
-**Office of Federal Contract Compliance Programs**
-
-- 1-800-397-6251
-
-**Equal Employment Opportunity Commission**
-
-- 1-800-669-4000
-- <info@eeoc.gov>
+- Office of Federal Contract Compliance Programs: 1-800-397-6251
+- Equal Employment Opportunity Commission: 1-800-669-4000 or <info@eeoc.gov>
 
 All services are free and confidential. We will not disclose any information to your employer unless you decide to file a formal complaint.
 
