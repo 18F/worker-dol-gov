@@ -14,6 +14,6 @@ steps:
   - { text: "If we determine the law may have been violated, we will try to reach a voluntary settlement with the employer. If we cannot reach a settlement, your case will be referred to our legal staff (or the Department of Justice in certain cases), who will decide whether the agency should file a lawsuit. If we decide not to file a lawsuit, we will give you a Notice-of-Right-to-Sue.", img: "/assets/img/icons/steps/Check_Icon.png" }
 
 here-to-help:
-  - All services are free and confidential, whether you’re documented or not. We will not disclose any information to your employer unless you decide to file a formal complaint.
+  - All services are free and confidential. We will not disclose any information to your employer unless you decide to file a formal complaint.
   - Please note that it is illegal for your employer to fire, demote, harass, or otherwise retaliate against you for filing a complaint with the the EEOC.
 ---
