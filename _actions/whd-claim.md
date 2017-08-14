@@ -15,7 +15,7 @@ steps:
   - { text: "If an investigation is set up and finds sufficient evidence, you’ll receive a check for wages lost.", img: "/assets/img/icons/steps/Check_Icon.png" }
 
 here-to-help:
-  - All services are free and confidential, whether you’re documented or not. We will not disclose any information to your employer unless you decide to file a formal complaint.
+  - All services are free and confidential. We will not disclose any information to your employer unless you decide to file a formal complaint.
   - Please note that it is illegal for your employer to fire, demote, harass, or otherwise retaliate against you for filing a complaint with WHD.
 
 file:
