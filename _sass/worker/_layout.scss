@@ -58,7 +58,7 @@
 }
 
 // Sidebars & main content layout
-@include media($medium-screen) {
+@include media($large-screen) {
   .sidebar {
     @include span-columns(4);
     @include shift(1);
@@ -70,13 +70,18 @@
 }
 
 .sidebar__box {
-  border-left: .3rem solid $color-white;
   font-size: 1.5rem;
+  margin-top: 2rem;
   padding: 2rem;
 
   h3 {
-    font-size: 1.7rem;
     color: $w-gray-2;
+    margin-bottom: 1.5rem;
+    font-size: 1.7rem;
+  }
+
+  h3 + p {
+    margin-top: 0;
   }
 
   & + & {
@@ -90,4 +95,15 @@
 
 .sidebar__box--blue {
   border-left: 4px solid $w-light-blue;
+}
+
+.sidebar__box--white {
+  border-top: .3rem solid $color-white;
+  margin-top: 2rem;
+
+  @include media($medium-screen) {
+    border-left: .3rem solid $color-white;
+    border-top: none;
+    margin-top: 0;
+  }
 }

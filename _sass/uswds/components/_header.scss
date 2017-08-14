@@ -35,17 +35,23 @@ $z-index-nav:     9000;
 
 .usa-logo {
   float: left;
-  line-height: 4rem;
+  line-height: 7rem;
   margin-left: 1.5rem;
 
   @include media($nav-width) {
     margin-left: 0;
-    line-height: 6rem;
   }
 
   a {
     color: $color-base;
+    display: block;
+    height: 7rem;
     text-decoration: none;
+  }
+
+  img {
+    height: 4rem;
+    margin-top: 1.5rem;
   }
 
   br {
@@ -53,6 +59,18 @@ $z-index-nav:     9000;
 
     @include media($nav-width) {
       display: block;
+    }
+  }
+
+  @include media($nav-width) {
+    line-height: initial;
+
+    a {
+      height: initial;
+    }
+
+    img {
+      margin-top: 0;
     }
   }
 }
@@ -74,17 +92,18 @@ $z-index-nav:     9000;
 .usa-menu-btn {
   /* stylelint-disable declaration-block-no-ignored-properties */
   @include button-unstyled;
-  background-color: $color-primary;
-  color: $color-white;
+  color: $color-primary;
   display: inline;
   float: right;
-  font-size: $h6-font-size;
-  height: 4rem;
-  line-height: 4rem;
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-right: 1.5rem;
+  height: 7rem;
+  line-height: 7rem;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
-  width: 5.8rem;
+  width: 5rem;
   /* stylelint-enable */
 
   @include media($nav-width) {

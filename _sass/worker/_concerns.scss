@@ -1,9 +1,10 @@
 .concern__button {
-  background-position: right 1.5rem top 1.5rem;
+  background-position: right 2.5rem top 50%;
   border-left: 10px solid $w-light-blue;
   color: $color-base;
   display: block;
   margin-top: .8rem;
+  padding-left: 2rem;
   position: relative;
   transition: border-color, background-color .1s ease-out;
   width: 100%;
@@ -18,25 +19,6 @@
   &:focus {
     border-color: $w-blue;
     background-color: darken($color-gray-lightest, 5%);
-  }
-
-  &::before {
-    content: 'See all';
-    font-weight: normal;
-    font-size: 1.2rem;
-    color: $color-primary;
-    position: absolute;
-    top: 1.5rem;
-    right: 4rem;
-  }
-
-  &[aria-expanded="true"] {
-    border-color: $w-blue;
-    background-color: darken($color-gray-lightest, 5%);
-
-    &::before {
-      content: 'Close';
-    }
   }
 }
 

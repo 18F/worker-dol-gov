@@ -7,11 +7,12 @@
 
 .usa-navbar {
   border-bottom: 1px solid $color-gray-light;
-  height: 4rem;
+  height: 7rem;
 
   @include media($nav-width) {
     border-bottom: none;
     display: inline-block;
+    height: auto;
   }
 }
 

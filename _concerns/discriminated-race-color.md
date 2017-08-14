@@ -4,7 +4,9 @@ title: Race or color
 layout: concern-details
 
 # Metadata
-concern: I was treated unfairly
+concern:
+ - I was treated unfairly
+ - I was fired or not hired
 detail: race or color
 right: equality-rights
 summary: "I was treated unfairly because of my race or color"

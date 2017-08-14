@@ -4,9 +4,11 @@ title: Family medical leave
 layout: concern-details
 
 # Metadata
-concern: I want to report a different issue
+concern:
+  - I wasn’t paid properly
+  - I want to report a different issue
 detail: family medical leave
-right: fmla
+right: wage-rights
 summary: "I’m not getting the family or medical leave I’m entitled to"
 
 # Page content

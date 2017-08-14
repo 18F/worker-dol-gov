@@ -25,7 +25,7 @@ $accordion-border: 3px solid $color-gray-lightest;
   @include button-unstyled;
   background-color: $color-gray-lightest;
   background-image: url('#{$image-path}/minus.png');
-  background-image: url('#{$image-path}/minus.svg');
+  background-image: url('../img/icon-minus-blue.svg');
   background-position: right 3rem center;
   background-repeat: no-repeat;
   background-size: 13px;
@@ -60,7 +60,7 @@ $accordion-border: 3px solid $color-gray-lightest;
 
 @mixin accordion-button-unopened-styles {
   background-image: url('#{$image-path}/plus.png');
-  background-image: url('#{$image-path}/plus.svg');
+  background-image: url('../img/icon-plus-blue.svg');
   background-repeat: no-repeat;
   background-size: 1.3rem;
 }

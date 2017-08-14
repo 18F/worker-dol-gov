@@ -1,21 +1,20 @@
 ---
 # Page basics
-title: Wages and tips
+title: Bargaining
 layout: concern-details
 
 # Metadata
 concern:
-  - My employer doesn’t allow me to talk with coworkers about wages working conditions
-  - I was threatened or retaliated against
-detail: tip policy
+  - My employer doesn’t allow me to talk with coworkers about wages or working conditions
+detail: forming a union
 right: organizing-rights
-summary: "Our boss threatened to fire us for complaining about the tip policy"
+summary: "Our boss refuses to bargain with us because we formed a union"
 
 # Page content
 blurb: organizing
 actions:
   - action: nlrb-claim
-    label: Learn more
+    label: File a claim
 related_links:
   - title: "Employee Rights"
     url: https://www.nlrb.gov/rights-we-protect/employee-rights
@@ -23,6 +22,4 @@ related_links:
     url: https://www.nlrb.gov/rights-we-protect/whats-law/employees
   - title: "Employer / Union Rights and Obligations"
     url: https://www.nlrb.gov/rights-we-protect/employerunion-rights-and-obligations
-sidebars:
-  - contact-nlrb
 ---

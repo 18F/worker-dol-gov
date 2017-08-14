@@ -4,7 +4,9 @@ title: Sex
 layout: concern-details
 
 # Metadata
-concern: I was treated unfairly
+concern:
+ - I was treated unfairly
+ - I was fired or not hired
 detail: sex
 right: equality-rights
 summary: "I was treated unfairly because of my sex"

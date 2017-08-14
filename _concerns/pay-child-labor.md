@@ -5,10 +5,10 @@ layout: concern-details
 
 # Metadata
 concern:
-  - I want to report a different issue
   - I wasn’t paid properly
+  - I want to report a different issue
 detail: child labor
-right: pay
+right: wage-rights
 summary: "I think someone is employing children unlawfully"
 
 # Page content

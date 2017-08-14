@@ -12,15 +12,28 @@
     text-align: center;
 
     img {
-      width: 35%;
+      margin-left: 15px;
+      width: 80%;
     }
   }
 
   h1 {
-    margin: .75rem 0 0 0;
+    margin: 2rem 0;
   }
 
   p {
     margin: .5rem 0 4rem 0;
+  }
+
+  @include media($medium-screen) {
+    .icons {
+      img {
+        width: 35%;
+      }      
+    }
+
+    h1 {
+      margin: .75rem 0 0 0;
+    }
   }
 }

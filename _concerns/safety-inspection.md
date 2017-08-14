@@ -4,7 +4,9 @@ title: Safety inspections
 layout: concern-details
 
 # Metadata
-concern: I don’t feel safe at work
+concern:
+  - I don’t feel safe at work
+  - I was threatened or retaliated against
 detail: whistleblower
 right: safety-rights
 summary: "I’m afraid to request a safety inspection or speak with an inspector"

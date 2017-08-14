@@ -1,12 +1,12 @@
 # Worker.gov
 
-This is the public repo for [Worker.gov](http://worker.gov/), which is a tool to help workers learn about and exercise their rights. It represents a joint effort by the U.S. Departments of Labor and Justice, the Equal Employment Opportunity Commission and the National Labor Relations Board. Learn more about the project [here](http://worker.gov/playbook.html).
+This is the public repo for [Worker.gov](http://worker.gov/), which is a tool to help workers learn about and exercise their rights. It represents a joint effort by the U.S. Department of Labor, the Equal Employment Opportunity Commission, the National Labor Relations Board, and the Department of Justice.
 
 ## Contributing
 
 This site is currently in beta and being built in stages in response to user feedback.
 
-To provide feedback on [Worker.gov](http://worker.gov/), you should follow this [repository](https://github.com/presidential-innovation-fellows/worker-dol-gov) and this [issues tracker](https://github.com/presidential-innovation-fellows/worker-dol-gov/issues).
+To provide feedback on [Worker.gov](http://worker.gov/), you should follow this [repository](https://github.com/18F/worker-dol-gov) and this [issues tracker](https://github.com/18F/worker-dol-gov/issues).
 
 The easiest way to provide other types of feedback is to email [alphafeedback@dol.gov](mailto:alphafeedback@dol.gov), which will be routed directly to a member of the team.
 

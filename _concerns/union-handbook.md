@@ -1,15 +1,15 @@
 ---
 # Page basics
-title: Wages and tips
+title: Employee handbooks
 layout: concern-details
 
 # Metadata
 concern:
-  - My employer doesn’t allow me to talk with coworkers about wages working conditions
-  - I was threatened or retaliated against
-detail: tip policy
+  - My employer doesn’t allow me to talk with coworkers about wages or working conditions
+  - I wasn’t paid properly
+detail: employee handbook
 right: organizing-rights
-summary: "Our boss threatened to fire us for complaining about the tip policy"
+summary: "I’m afraid to talk with my coworkers about wages because our handbook prohibits it"
 
 # Page content
 blurb: organizing
