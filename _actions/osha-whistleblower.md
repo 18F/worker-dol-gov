@@ -14,7 +14,7 @@ steps:
   - { text: "If evidence supports a claim of discrimination, OSHA can require the employer to reinstate the employee, pay back wages, restore benefits, and other possible remedies to make the employee whole.", img: "/assets/img/icons/steps/Gavel_Icon.png" }
 
 here-to-help:
-  - All services are free and confidential, whether you’re documented or not. We will not disclose any information to your employer unless you decide to file a formal complaint.
+  - All services are free and confidential. We will not disclose any information to your employer unless you decide to file a formal complaint.
   - Please note that it is illegal for your employer to fire, demote, harass, or otherwise retaliate against you for filing a complaint with OSHA.
 
 ---
