@@ -13,7 +13,7 @@ steps:
   - { text: "If an investigation is set up and finds sufficient evidence of a violation, you may obtain various types of relief, including back pay or getting your job back.", img: "/assets/img/icons/steps/LegalForm_Icon.png" }
 
 here-to-help:
-  - All services are free and confidential, whether you’re documented or not. We will not disclose any information to your employer unless you decide to file a formal complaint.
+  - All services are free and confidential. We will not disclose any information to your employer unless you decide to file a formal complaint.
   - Please note that it is illegal for your employer to fire, demote, harass, or otherwise retaliate against you for filing a complaint with the Department of Justice.
 
 ---
