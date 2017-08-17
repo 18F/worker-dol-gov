@@ -46,11 +46,21 @@ layout: content
 			{% endfor %}
 			</ul>
 		</aside>
+		{% endif %}
+
+		{% if page.elaws %}
+		<aside class="sidebar__box sidebar__box--gray">
+			{% for sidebar in site.sidebars %}
+				{% if page.elaws contains sidebar.slug %}
+					{{ sidebar | markdownify }}
+				{% endif %}
+			{% endfor %}
+		</aside>
+		{% endif %}
 
 		<aside class="sidebar__box sidebar__box--gray">
 			<h3>Looking for a job?</h3>
 			<p>Visit <a href"https://www.careeronestop.org/">CareerOneStop</a> to find job opportunities, career options, training, skills assessments, and workforce services in your neighborhood. CareerOneStop is a free online resource sponsored by the Department of Labor.</p>
 		</aside>
-		{% endif %}
 	</div>
 </div>

@@ -28,4 +28,6 @@ related_links:
     url: https://www.dol.gov/whd/regs/compliance/whd_fs.pdf
 sidebars:
   - contact-wage-hour
+elaws:
+  - elaws-wages
 ---
