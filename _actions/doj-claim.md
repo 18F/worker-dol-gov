@@ -7,7 +7,8 @@ header: Filing a claim with DOJ
 steps:
   - text: "Fill out the form by clicking the File Now button below, or print out the form and send by mail, fax, or email."
     img: "/assets/img/icons/steps/Pencil_Icon.png"
-  - text: "We’ll contact you by mail or by phone.", img: "/assets/img/icons/steps/Mail_Icon.png"
+  - text: "We’ll contact you by mail or by phone."
+    img: "/assets/img/icons/steps/Mail_Icon.png"
   - text: "We’ll work with you to answer your questions and determine if setting up an investigation is the best course of action. If it is, we’ll start an investigation, which usually takes no longer than seven months."
     img: "/assets/img/icons/steps/SpeechBubble_Icon.png"
   - text: "If an investigation is set up and finds sufficient evidence of a violation, you may obtain various types of relief, including back pay or getting your job back."

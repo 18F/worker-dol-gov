@@ -23,7 +23,7 @@ here-to-help:
 file:
 - url: "https://www.dol.gov/wecanhelp/howtofilecomplaint.htm"
   action-cta: "File a complaint"
-  cta: "File Now" }
+  cta: "File Now"
 
 
 ---
