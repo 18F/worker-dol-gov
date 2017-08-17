@@ -1,7 +1,6 @@
 ---
 title: OFCCP Claim
 layout: process
-exit: https://www.dol.gov/ofccp/regs/compliance/pdf/pdfstart.htm
 header: Filing a claim with OFCCP
 
 steps:
@@ -20,6 +19,9 @@ here-to-help:
   - All services are free and confidential. We will not disclose any information to your employer unless you decide to file a formal complaint.
   - Please note that it is illegal for your employer to fire, demote, harass, or otherwise retaliate against you for filing a complaint with the OFCCP.
 
+actions:
+  - url: https://www.dol.gov/ofccp/regs/compliance/pdf/pdfstart.htm
+    label: File now
 ---
 
 ## Before you file

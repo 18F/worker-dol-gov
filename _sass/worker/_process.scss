@@ -17,12 +17,15 @@
 }
 
 .steps {
+  & > ul {
+    list-style-type: none;
+  }
+
   .step-icon {
       text-align: center;
   }
 
   li {
-    list-style: none;
     padding: 5px;
   }
 
@@ -38,4 +41,9 @@
     float: left;
     width: 90px;
   }
+}
+
+.disclaimer {
+  color: $w-gray-2;
+  font-size: 1.4rem;
 }

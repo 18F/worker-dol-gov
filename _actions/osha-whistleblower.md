@@ -1,7 +1,6 @@
 ---
 title: OSHA Claim
 layout: process
-exit: http://www.whistleblowers.gov/complaint_page.html
 header: Filing a complaint with OSHA
 
 steps:
@@ -20,6 +19,9 @@ here-to-help:
   - All services are free and confidential. We will not disclose any information to your employer unless you decide to file a formal complaint.
   - Please note that it is illegal for your employer to fire, demote, harass, or otherwise retaliate against you for filing a complaint with OSHA.
 
+actions:
+  - url: http://www.whistleblowers.gov/complaint_page.html
+    label: File now
 ---
 
 ## Before you file

@@ -1,7 +1,6 @@
 ---
 title: WHD Claim
 layout: process
-exit: https://webapps.dol.gov/contactwhd/default.aspx
 header: Filing a complaint with the Wage and Hour Division
 
 steps:
@@ -20,10 +19,9 @@ here-to-help:
   - All services are free and confidential. We will not disclose any information to your employer unless you decide to file a formal complaint.
   - Please note that it is illegal for your employer to fire, demote, harass, or otherwise retaliate against you for filing a complaint with WHD.
 
-file:
-- url: "https://www.dol.gov/wecanhelp/howtofilecomplaint.htm"
-  action-cta: "File a complaint"
-  cta: "File Now"
+actions:
+- url: "https://webapps.dol.gov/contactwhd/default.aspx"
+  label: File now
 
 
 ---
