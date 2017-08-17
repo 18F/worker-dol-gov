@@ -22,6 +22,6 @@ related_links:
     url: https://www.dol.gov/general/topic/wages/backpay
   - title: "Work Hours Calendar"
     url: https://www.dol.gov/whd/FLSAEmployeeCard/calendarR5Web.pdf
-sidebars:
+contact:
   - contact-wage-hour
 ---

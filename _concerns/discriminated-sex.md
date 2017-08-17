@@ -25,7 +25,7 @@ related_links:
     url: https://www.eeoc.gov/laws/types/sexual_harassment.cfm
   - title: "Bathroom / Facility Access and Transgender Employees"
     url: https://www.eeoc.gov/eeoc/publications/fs-bathroom-access-transgender.cfm
-sidebars:
+contact:
   - contact-eeoc-ofccp
 ---
 

@@ -26,7 +26,7 @@ related_links:
     url: https://www.dol.gov/whd/regs/compliance/whdfs28.htm
   - title: "Basic Information: Wage and Hour Division"
     url: https://www.dol.gov/whd/regs/compliance/whd_fs.pdf
-sidebars:
+contact:
   - contact-wage-hour
 elaws:
   - elaws-wages

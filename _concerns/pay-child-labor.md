@@ -26,6 +26,6 @@ related_links:
     url: https://youthrules.dol.gov/
   - title: "State Child Labor Laws"
     url: https://www.youthrules.gov/law-library/state-laws/index.htm
-sidebars:
+contact:
   - contact-wage-hour
 ---

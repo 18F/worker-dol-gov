@@ -23,7 +23,7 @@ related_links:
     url: https://www.eeoc.gov/eeoc/publications/age.cfm
   - title: "Age Discrimination"
     url: https://www.dol.gov/general/topic/discrimination/agedisc
-sidebars:
+contact:
   - contact-eeoc
 ---
 

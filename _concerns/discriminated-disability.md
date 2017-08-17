@@ -27,7 +27,7 @@ related_links:
     url: https://www.eeoc.gov/eeoc/publications/ada_veterans.cfm
   - title: "Your Employment Rights as an Individual With a Disability"
     url: https://www.eeoc.gov/facts/ada18.html
-sidebars:
+contact:
   - contact-eeoc-ofccp
 ---
 

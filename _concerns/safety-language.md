@@ -21,6 +21,6 @@ related_links:
     url: https://www.dol.gov/general/topic/safety-health
   - title: "Worker Rights Booklet"
     url: https://www.osha.gov/Publications/osha3021.pdf
-sidebars:
+contact:
   - contact-osha
 ---

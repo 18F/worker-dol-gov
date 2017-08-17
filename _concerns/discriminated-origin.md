@@ -21,7 +21,7 @@ related_links:
     url: https://www.eeoc.gov/laws/types/nationalorigin.cfm
   - title: "Facts About National Origin Discrimination"
     url: https://www.eeoc.gov/eeoc/publications/fs-nator.cfm
-sidebars:
+contact:
   - contact-eeoc-ofccp
 ---
 

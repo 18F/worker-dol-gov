@@ -25,6 +25,6 @@ related_links:
     url: https://www.osha.gov/recordkeeping/finalrule/index.html
   - title: "OSHA Injury and Illness Recordkeeping and Reporting Requirements"
     url: https://www.osha.gov/recordkeeping/
-sidebars:
+contact:
   - contact-osha
 ---

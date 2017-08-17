@@ -26,6 +26,6 @@ related_links:
     url: https://www.dol.gov/whd/state/tipped.htm
   - title: "Minimum Wages for Workers with Disabilities"
     url: https://www.dol.gov/whd/workerswithdisabilities/RightsForWorkersWithDisabilities.pdf
-sidebars:
+contact:
   - contact-wage-hour
 ---

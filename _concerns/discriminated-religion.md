@@ -27,7 +27,7 @@ related_links:
     url: https://www.eeoc.gov/eeoc/publications/qa_religious_garb_grooming.cfm
   - title: "Questions and Answers for Employees: Workplace Rights of Employees Who Are, or Are Perceived to Be, Muslim or Middle Eastern"
     url: https://www.eeoc.gov/eeoc/publications/muslim_middle_eastern_employees.cfm
-sidebars:
+contact:
   - contact-eeoc-ofccp
 ---
 

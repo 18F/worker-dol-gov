@@ -24,10 +24,10 @@ layout: content
 		{% endfor %}
 		{{ page.content }}
 
-		{% for sidebar in site.sidebars %}
-			{% if page.sidebars contains sidebar.slug %}
+		{% for item in site.contactinfo %}
+			{% if page.contact contains item.slug %}
 			<h2>Questions? We’re here to help.</h2>
-			{{ sidebar | markdownify }}
+			{{ item | markdownify }}
 		{% endif %}
 		{% endfor %}
 

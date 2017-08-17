@@ -23,7 +23,7 @@ related_links:
     url: https://www.eeoc.gov/eeoc/publications/brochure-immigrant_workers_rights.cfm
   - title: "Immigration Discrimination"
     url: https://www.dol.gov/general/topic/discrimination/immdisc
-sidebars:
+contact:
   - contact-doj
 
 ---

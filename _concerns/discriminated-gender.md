@@ -25,7 +25,7 @@ related_links:
     url: https://www.eeoc.gov/eeoc/newsroom/wysk/enforcement_protections_lgbt_workers.cfm
   - title: "Bathroom / Facility Access and Transgender Employees"
     url: https://www.eeoc.gov/eeoc/publications/fs-bathroom-access-transgender.cfm
-sidebars:
+contact:
   - contact-eeoc-ofccp
 ---
 

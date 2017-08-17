@@ -23,6 +23,6 @@ related_links:
     url: https://www.osha.gov/SLTC/personalprotectiveequipment/
   - title: "Fall Protection"
     url: https://www.osha.gov/SLTC/fallprotection/
-sidebars:
+contact:
   - contact-osha
 ---

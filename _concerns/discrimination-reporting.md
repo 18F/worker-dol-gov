@@ -21,7 +21,7 @@ related_links:
     url: https://www.eeoc.gov/laws/types/retaliation.cfm
   - title: "Retaliation - Making it Personal"
     url: https://www.eeoc.gov/laws/types/retaliation_considerations.cfm
-sidebars:
+contact:
   - contact-eeoc-ofccp
 ---
 

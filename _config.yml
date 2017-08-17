@@ -42,5 +42,7 @@ collections:
     permalink: /:collection/:path/
   sidebars:
     output: false
+  contactinfo:
+    output: false
   blurbs:
     output: false

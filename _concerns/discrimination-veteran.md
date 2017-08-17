@@ -23,7 +23,7 @@ related_links:
     url: https://www.dol.gov/general/topic/discrimination/vetsdisc
   - title: "Understanding Your Employment Rights Under the Americans with Disabilities Act: A Guide for Veterans"
     url: https://www.eeoc.gov/eeoc/publications/ada_veterans.cfm
-sidebars:
+contact:
   - contact-ofccp
 ---
 

@@ -20,6 +20,6 @@ related_links:
     url: https://www.dol.gov/whd/regs/compliance/whdfs21.htm
   - title: "Work Hours Recordkeeper"
     url: https://www.dol.gov/whd/FLSAEmployeeCard/WrkHrsRecordkeeper.pdf
-sidebars:
+contact:
   - contact-wage-hour
 ---

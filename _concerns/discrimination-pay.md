@@ -21,7 +21,7 @@ related_links:
     url: https://www.eeoc.gov/laws/types/equalcompensation.cfm
   - title: "Facts About Equal Pay and Compensation Discrimination"
     url: https://www.eeoc.gov/eeoc/publications/fs-epa.cfm
-sidebars:
+contact:
   - contact-eeoc-ofccp
 ---
 

@@ -21,7 +21,7 @@ related_links:
     url: https://www.dol.gov/ofccp/regs/compliance/factsheets/FACT_PayTransparency-Sept16_ENGESQA508c.pdf
   - title: "Pay Transparency Regulations FAQ"
     url: https://www.dol.gov/ofccp/regs/compliance/faqs/PayTransparencyFAQs.html
-sidebars:
+contact:
   - contact-ofccp
 
 ---

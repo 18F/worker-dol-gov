@@ -20,6 +20,6 @@ related_links:
     url: https://www.dol.gov/whd/overtime_pay.htm
   - title: "Fact Sheet: Overtime Pay Requirements"
     url: https://www.dol.gov/whd/regs/compliance/whdfs23.htm
-sidebars:
+contact:
   - contact-wage-hour
 ---

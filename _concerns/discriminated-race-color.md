@@ -23,7 +23,7 @@ related_links:
     url: https://www.eeoc.gov/eeoc/publications/fs-race.cfm
   - title: "Questions and Answers About Race and Color Discrimination in Employment"
     url: https://www.eeoc.gov/policy/docs/qanda_race_color.html
-sidebars:
+contact:
   - contact-eeoc-ofccp
 ---
 

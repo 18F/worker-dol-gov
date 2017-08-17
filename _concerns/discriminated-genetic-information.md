@@ -25,7 +25,7 @@ related_links:
     url: https://www.genome.gov/10002077/genetic-discrimination/
   - title: "Genetic Information Nondiscrimination Act of 2008"
     url: https://www.genome.gov/10002328/genetic-discrimination-fact-sheet/
-sidebars:
+contact:
   - contact-eeoc
 ---
 
