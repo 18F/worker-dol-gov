@@ -35,9 +35,9 @@ here-to-help:
   - Please note that it is illegal for your employer to fire, demote, harass, or otherwise retaliate against you for filing a complaint with the the EEOC.
 
 actions:
-- url: "https://www.dol.gov/wecanhelp/howtofilecomplaint.htm"
+- url: https://www.dol.gov/ofccp/regs/compliance/pdf/pdfstart.htm
   label: File with OFCCP
-- url: "https://www.dol.gov/wecanhelp/howtofilecomplaint.htm"
+- url: https://www.eeoc.gov/employees/howtofile.cfm
   label: File with EEOC
 
 disclaimer: "Note: OFCCP and EEOC work together to investigate discrimination, and each agency can accept discrimination complaints on behalf of the other agency. The agency you file a complaint with will determine whether it should handle the complaint, or refer it to the other agency and inform you of the referral."
