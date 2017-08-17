@@ -146,12 +146,12 @@ a {
     margin-bottom: 0;
 
     &:nth-child(even) {
-      margin-right: $gutter;
+      margin-right: 2.35%;
     }
 
     &:last-child {
       margin-bottom: 0;
-      margin-right: 0;
+      margin-right: 0 !important;
     }
   }
 }
