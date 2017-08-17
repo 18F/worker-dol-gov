@@ -34,13 +34,12 @@ function collapseAll() {
 
 document.getElementById('toggle-all').addEventListener('click', function(e) {
   var toggleButton = e.target;
-  if (toggleButton.dataset.action == 'expand') {
+  console.log(e.target);
+  if (toggleButton.innerText == 'Expand all') {
     expandAll();
-    toggleButton.dataset.action = 'collapse';
     toggleButton.innerText = 'Collapse all';
   } else {
     collapseAll();
-    toggleButton.dataset.action = 'expand';
     toggleButton.innerText = 'Expand all';
   }
 });
