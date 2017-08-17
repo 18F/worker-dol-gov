@@ -49,7 +49,7 @@ layout: content
 		{% endif %}
 
 		{% if page.elaws %}
-		<aside class="sidebar__box sidebar__box--blue">
+		<aside class="sidebar__box sidebar__box--gray">
 			{% for sidebar in site.sidebars %}
 				{% if page.elaws contains sidebar.slug %}
 					{{ sidebar | markdownify }}
