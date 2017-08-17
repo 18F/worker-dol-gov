@@ -16,12 +16,10 @@ steps:
     img: "/assets/img/icons/steps/PenAndPaper_Icon.png"
   - text: "Decide how you want to file:"
     subpoints:
-      - Your name, address, and telephone number
-      - The name, address, and telephone number of the employer (or employment agency or union) you want to file a complaint against
-      - The number of employees employed there (if known)
-      - A short description of the events you believe were discriminatory (for example, you were fired, demoted, harassed)
-      - When the events took place
-      - Why you believe you were discriminated against (such as your race, color, religion, sex, pregnancy, gender identity, and sexual orientation, national origin, age (40 or older), disability, genetic information, or veteran status)
+      - By mail
+      - "In person at a regional [EEOC](https://www.eeoc.gov/field/index.cfm) or [OFCCP](https://www.dol.gov/ofccp/contacts/regkeyp.htm) office"
+      - By phone with the EEOC
+      - By fax with OFCCP
     img: "/assets/img/icons/steps/Website_Icon.png"
   - text: After you file your complaint, we’ll give you a copy of it with a complaint number. We’ll review your complaint and contact you if we need more information.
     img: "/assets/img/icons/steps/LegalForm_Icon.png"

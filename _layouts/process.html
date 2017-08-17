@@ -22,9 +22,9 @@ layout: default
 				  					<h4>Step {{ forloop.index }}</h4>
 				  					<p>{{ step.text | markdownify }}</p>
 										{% if step.subpoints %}
-											<ul>
+											<ul class="step__subpoints">
 												{% for point in step.subpoints %}
-												<li>{{ point }}</li>
+												<li>{{ point | markdownify }}</li>
 												{% endfor %}
 											</ul>
 										{% endif %}
