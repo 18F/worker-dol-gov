@@ -1,8 +1,8 @@
 ---
-title: EEOC Claim
+title: EEOC Complaint
 layout: process
 exit: https://www.eeoc.gov/employees/howtofile.cfm
-header: Filing a claim with the EEOC
+header: Filing a complaint with the OFFCP or EEOC
 
 steps:
   - text: Gather information to file your complaint
@@ -12,7 +12,7 @@ steps:
       - The number of employees employed there (if known)
       - A short description of the events you believe were discriminatory (for example, you were fired, demoted, harassed)
       - When the events took place
-      - Why you believe you were discriminated against (such as your race, color, religion, sex, pregnancy, gender identity, and sexual orientation, national origin, age (40  or older), disability, genetic information, or veteran status)
+      - Why you believe you were discriminated against (such as your race, color, religion, sex, pregnancy, gender identity, and sexual orientation, national origin, age (40 or older), disability, genetic information, or veteran status)
     img: "/assets/img/icons/steps/PenAndPaper_Icon.png"
   - text: "Decide how you want to file:"
     subpoints:
@@ -30,7 +30,7 @@ steps:
 
 here-to-help:
   - All services are free and confidential. We will not disclose any information to your employer unless you decide to file a formal complaint.
-  - Please note that it is illegal for your employer to fire, demote, harass, or otherwise retaliate against you for filing a complaint with the the EEOC.
+  - Please note that it is illegal for your employer to fire, demote, harass, or otherwise retaliate against you for filing a complaint with the OFCCP or EEOC.
 
 actions:
 - url: https://www.dol.gov/ofccp/regs/compliance/pdf/pdfstart.htm
@@ -40,11 +40,3 @@ actions:
 
 disclaimer: "Note: OFCCP and EEOC work together to investigate discrimination, and each agency can accept discrimination complaints on behalf of the other agency. The agency you file a complaint with will determine whether it should handle the complaint, or refer it to the other agency and inform you of the referral."
 ---
-
-## Before you file
-
-The information below is useful to know when filing a complaint with EEOC:
-
-- The EEOC accepts filing in person at any one of the EEOC's 53 field offices or by mail
-- In general, you need to file a charge within 180 calendar days from the day the discrimination took place
-- The name of the company where you work(ed)

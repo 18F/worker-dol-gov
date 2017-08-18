@@ -1,33 +1,36 @@
 ---
-title: EEOC Claim
+title: EEOC Complaint
 layout: process
-header: Filing a claim with the EEOC
+header: Filing a complaint with the EEOC
 
 steps:
-  - text: "Head to an EEOC office or to the link below."
-    img: "/assets/img/icons/steps/SpeechBubble_Icon.png"
-  - text: "At the time your charge is filed, we will give you a copy of your charge with your charge number."
-    img: "/assets/img/icons/steps/LegalForm_Icon.png"
-  - text: "Within 10 days, we will also send a notice of the charge to the employer. Note: In some cases, we’ll ask both you and the employer to take part in our mediation program."
-    img: "/assets/img/icons/steps/Pencil_Icon.png"
-  - text: "You can check on the status of your charge anytime by visiting our Online Charge Status System."
+  - text: Gather information to file your complaint
+    subpoints:
+      - Your name, address, and telephone number
+      - The name, address, and telephone number of the employer (or employment agency or union) you want to file a complaint against
+      - The number of employees employed there (if known)
+      - A short description of the events you believe were discriminatory (for example, you were fired, demoted, harassed)
+      - When the events took place
+      - Why you believe you were discriminated against (such as your race, color, religion, sex, pregnancy, gender identity, and sexual orientation, national origin, age (40 or older), disability, or genetic information)
+    img: "/assets/img/icons/steps/PenAndPaper_Icon.png"
+  - text: "Decide how you want to file:"
+    subpoints:
+      - By mail
+      - "In person at a [regional EEOC office](https://www.eeoc.gov/field/index.cfm)"
+      - By phone
     img: "/assets/img/icons/steps/Website_Icon.png"
-  - text: "If we determine the law may have been violated, we will try to reach a voluntary settlement with the employer. If we cannot reach a settlement, your case will be referred to our legal staff (or the Department of Justice in certain cases), who will decide whether the agency should file a lawsuit. If we decide not to file a lawsuit, we will give you a Notice-of-Right-to-Sue."
-    img: "/assets/img/icons/steps/Check_Icon.png"
+  - text: "After you file your complaint, we’ll give you a copy of it with a complaint number. We’ll review your complaint and contact you if we need more information. You can [check the status of your complaint](https://www.eeoc.gov/employees/charge_status.cfm) at any time."
+    img: "/assets/img/icons/steps/LegalForm_Icon.png"
+  - text: We will work with you to answer your questions and determine whether an investigation is the best course of action.
+    img: "/assets/img/icons/steps/SpeechBubble_Icon.png"
+  - text: If we determine the law may have been violated, we will try to reach a voluntary settlement with the employer. If we cannot reach a settlement, your case will be referred to our legal staff (or the Department of Justice in certain cases), who will decide whether the agency should file a lawsuit. If we decide not to file a lawsuit, we will give you a Notice-of-Right-to-Sue.
+    img: "/assets/img/icons/steps/Gavel_Icon.png"
 
 here-to-help:
   - All services are free and confidential. We will not disclose any information to your employer unless you decide to file a formal complaint.
-  - Please note that it is illegal for your employer to fire, demote, harass, or otherwise retaliate against you for filing a complaint with the the EEOC.
+  - Please note that it is illegal for your employer to fire, demote, harass, or otherwise retaliate against you for filing a complaint with the EEOC.
 
 actions:
   - url: https://www.eeoc.gov/employees/howtofile.cfm
     label: File now
 ---
-
-## Before you file
-
-The information below is useful to know when filing a complaint with EEOC:
-
-- The EEOC accepts filing in person at any one of the EEOC's 53 field offices or by mail
-- In general, you need to file a charge within 180 calendar days from the day the discrimination took place
-- The name of the company where you work(ed)
