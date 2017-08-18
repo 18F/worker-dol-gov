@@ -4,15 +4,25 @@ layout: process
 header: Filing a complaint with OSHA
 
 steps:
-  - text: "click on the “File a Complaint” tab. Here you will find several options about how to file a complaint."
-    img: "/assets/img/icons/steps/Pencil_Icon.png"
-  - text: "Once we receive your complaint allegation, we will assign your complaint to an investigator."
+  - text: Gather information to file your complaint
+    subpoints:
+      - Your name, address, and telephone number
+      - The name, address, and telephone number of the employer (or employment agency) you want to file a complaint against
+      - The manager or owner’s name
+      - The type of business
+      - A description of the hazards you believe exist, along with the building or worksite location
+    img: "/assets/img/icons/steps/PenAndPaper_Icon.png"
+  - text: "Decide how you want to file:"
+    subpoints:
+      - "[Online](https://www.whistleblowers.gov/complaint_page.html)"
+      - "By phone, by calling a [regional office](https://www.osha.gov/html/RAmap.html)"
+      - By mail or fax
+    img: "/assets/img/icons/steps/Website_Icon.png"
+  - text: Once we receive your complaint allegation, we will assign your complaint to an investigator.
     img: "/assets/img/icons/steps/LegalForm_Icon.png"
-  - text: "The investigator will contact you to determine whether OSHA can conduct an investigation."
-    img: "/assets/img/icons/steps/Check_Icon.png"
-  - text: "If OSHA proceeds with an investigation, the employer will be notified of the allegation and an investigation into your complaint will begin."
-    img: "/assets/img/icons/steps/Gavel_Icon.png"
-  - text: "If evidence supports a claim of discrimination, OSHA can require the employer to reinstate the employee, pay back wages, restore benefits, and other possible remedies to make the employee whole."
+  - text: The investigator will contact you to determine whether OSHA can conduct an investigation. If OSHA proceeds with an investigation, the employer will be notified of the allegation and an investigation into your complaint will begin.
+    img: "/assets/img/icons/steps/SpeechBubble_Icon.png"
+  - text: If evidence supports your complaint, OSHA will ask the employer to restore the your job, earnings, and benefits.
     img: "/assets/img/icons/steps/Gavel_Icon.png"
 
 here-to-help:
@@ -24,5 +34,4 @@ actions:
     label: File now
 ---
 
-## Before you file
 If you have been punished or retaliated against for exercising your rights under the OSH Act, you must file a complaint with OSHA within 30 days of the alleged reprisal.

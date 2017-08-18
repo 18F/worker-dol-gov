@@ -4,13 +4,25 @@ layout: process
 header: Filing a complaint with OSHA
 
 steps:
-  - text: "Click on the file button below to start."
-    img: "/assets/img/icons/steps/Pencil_Icon.png"
-  - text: "By checking the electronic signature box and submitting, this submits a formal complaint and your complaint is assigned to a compliance officer who will conduct an onsite inspection."
+  - text: Gather information to file your complaint
+    subpoints:
+      - Your name, address, and telephone number
+      - The name, address, and telephone number of the employer (or employment agency) you want to file a complaint against
+      - The manager or owner’s name
+      - The type of business
+      - A description of the hazards you believe exist, along with the building or worksite location
+    img: "/assets/img/icons/steps/PenAndPaper_Icon.png"
+  - text: "Decide how you want to file:"
+    subpoints:
+      - "[Online](https://www.osha.gov/pls/osha7/eComplaintForm.html)"
+      - "By phone at 1-800-321-OSHA"
+      - By mail or fax
+    img: "/assets/img/icons/steps/Website_Icon.png"
+  - text: We’ll review your complaint and contact you if we need more information.
     img: "/assets/img/icons/steps/LegalForm_Icon.png"
-  - text: "You can also submit an non-formal complaint by calling. In non-formal complaints, the employer will be notified of the allegation and an investigation will begin through OSHA’s phone/fax process."
-    img: "/assets/img/icons/steps/Check_Icon.png"
-  - text: "We will conduct an investigation and we’ll share our findings with you."
+  - text: We will work with you to answer your questions and determine whether an investigation is the best course of action.
+    img: "/assets/img/icons/steps/SpeechBubble_Icon.png"
+  - text: We will conduct an investigation and we’ll share our findings with you.
     img: "/assets/img/icons/steps/Gavel_Icon.png"
 
 here-to-help:
@@ -18,9 +30,8 @@ here-to-help:
   - Please note that it is illegal for your employer to fire, demote, harass, or otherwise retaliate against you for filing a complaint with OSHA.
 
 actions:
-  - url: https://www.osha.gov/pls/osha7/eComplaintForm.html
+  - url: https://www.osha.gov/workers/file_complaint.html
     label: File now
 ---
 
-## Before you file
-If you have been punished or retaliated against for exercising your rights under the OSH Act, you must file a complaint with OSHA within 30 days of the alleged reprisal.
+If you have been punished or retaliated against for exercising your rights under the OSH Act, you must file a complaint within 30 days of the alleged reprisal.
