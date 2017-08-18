@@ -11,7 +11,8 @@ layout: content
 	<div class="main-content">
 		<p>{{page.mission}}</p>
 		<div class="sidebar__box sidebar__box--blue">
-			<h3>Examples</h3>
+			<p>Tell us about your concern, so you can learn about your rights and find out who to contact if you need more information.</p>
+			<h3>Common concerns</h3>
 			<ul>
 				{% assign concerns = site.concerns | sort: 'order' %}
 				{% for concern in concerns %}
