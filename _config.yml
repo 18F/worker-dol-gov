@@ -7,24 +7,13 @@
 
 # Site settings
 title: Worker.gov
-description: > # this means to ignore newlines until "baseurl:"
-  A better way for American workers to protect their rights.
+description: This site covers common workplace concerns and the federal laws that protect workers in the United States. See how federal laws protect you, and learn how to take action if you believe your rights were violated.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://worker.gov" # the base hostname & protocol for your site
+url: "https://worker.gov" # the base hostname & protocol for your site
 twitter_username: USDOL
 
 # Build settings
 markdown: kramdown
-
-# page_gen:
-#  - data: 'daylaborer'
-#    template: 'rights'
-#    name: 'id'
-#    dir: 'daylaborer'
-#  - data: 'rights'
-#    template: 'rights'
-#    name: 'id'
-#    dir: 'rights'
 
 collections:
   profiles:
