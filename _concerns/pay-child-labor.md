@@ -28,4 +28,6 @@ related_links:
     url: https://www.youthrules.gov/law-library/state-laws/index.htm
 contact:
   - contact-wage-hour
+elaws:
+  - elaws-wage-hour
 ---

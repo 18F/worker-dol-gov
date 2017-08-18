@@ -22,4 +22,6 @@ related_links:
     url: https://www.dol.gov/whd/regs/compliance/whdfs23.htm
 contact:
   - contact-wage-hour
+elaws:
+  - elaws-wage-hour
 ---

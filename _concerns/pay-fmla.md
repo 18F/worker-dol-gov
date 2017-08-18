@@ -29,5 +29,5 @@ related_links:
 contact:
   - contact-wage-hour
 elaws:
-  - elaws-wages
+  - elaws-wage-hour
 ---

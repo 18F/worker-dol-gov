@@ -25,6 +25,8 @@ related_links:
     url: https://www.eeoc.gov/eeoc/publications/ada_veterans.cfm
 contact:
   - contact-ofccp
+elaws:
+  - elaws-ofccp
 ---
 
 ### Examples of discrimination

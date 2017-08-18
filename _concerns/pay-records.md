@@ -22,4 +22,6 @@ related_links:
     url: https://www.dol.gov/whd/FLSAEmployeeCard/WrkHrsRecordkeeper.pdf
 contact:
   - contact-wage-hour
+elaws:
+  - elaws-wage-hour
 ---
