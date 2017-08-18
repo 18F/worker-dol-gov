@@ -24,7 +24,7 @@ steps:
   - text: We will work with you to answer your questions and determine whether an investigation is the best course of action.
     img: "/assets/img/icons/steps/SpeechBubble_Icon.png"
   - text: If an investigation is set up and finds sufficient evidence, you’ll receive a check for lost wages.
-    img: "/assets/img/icons/steps/Gavel_Icon.png"
+    img: "/assets/img/icons/steps/Check_Icon.png"
 
 here-to-help:
   - All services are free and confidential. We will not disclose any information to your employer unless you decide to file a formal complaint.
