@@ -18,7 +18,7 @@ steps:
 
 here-to-help:
   - All services are free and confidential. We will not disclose any information to your employer unless you decide to file a formal complaint.
-  - Please note that it is illegal for your employer to fire, demote, harass, or otherwise retaliate against you for reporting an issue to the OFCCP or EEOC.
+  - Please note that it is illegal for your employer to fire, demote, harass, or otherwise retaliate against you for filing a complaint with the Wage and Hour Division.
 
 actions:
 - url: "https://webapps.dol.gov/contactwhd/default.aspx"
