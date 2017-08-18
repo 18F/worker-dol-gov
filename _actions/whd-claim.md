@@ -5,7 +5,7 @@ exit:
 header: Filing a complaint with Wage and Hour
 
 steps:
-  - text: Gather information to file your complaint
+  - text: "Gather information to file your complaint:"
     subpoints:
       - Your name, address, and telephone number
       - The name, address, and telephone number of the employer (or employment agency) you want to file a complaint against
