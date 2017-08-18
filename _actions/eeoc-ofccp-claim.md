@@ -5,7 +5,7 @@ exit: https://www.eeoc.gov/employees/howtofile.cfm
 header: Filing a complaint with the OFFCP or EEOC
 
 steps:
-  - text: Gather information to file your complaint
+  - text: "Gather information to file your complaint:"
     subpoints:
       - Your name, address, and telephone number
       - The name, address, and telephone number of the employer (or employment agency or union) you want to file a complaint against
