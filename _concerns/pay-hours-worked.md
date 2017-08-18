@@ -24,4 +24,6 @@ related_links:
     url: https://www.dol.gov/whd/FLSAEmployeeCard/calendarR5Web.pdf
 contact:
   - contact-wage-hour
+elaws:
+  - elaws-wage-hour
 ---

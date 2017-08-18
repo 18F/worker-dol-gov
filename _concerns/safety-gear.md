@@ -25,4 +25,6 @@ related_links:
     url: https://www.osha.gov/SLTC/fallprotection/
 contact:
   - contact-osha
+elaws:
+  - elaws-osha
 ---

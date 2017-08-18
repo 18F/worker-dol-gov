@@ -23,6 +23,8 @@ related_links:
     url: https://www.dol.gov/ofccp/regs/compliance/faqs/PayTransparencyFAQs.html
 contact:
   - contact-ofccp
+elaws:
+  - elaws-ofccp
 
 ---
 

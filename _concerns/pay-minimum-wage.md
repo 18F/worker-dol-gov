@@ -28,4 +28,6 @@ related_links:
     url: https://www.dol.gov/whd/workerswithdisabilities/RightsForWorkersWithDisabilities.pdf
 contact:
   - contact-wage-hour
+elaws:
+  - elaws-wage-hour
 ---

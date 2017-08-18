@@ -27,4 +27,6 @@ related_links:
     url: https://www.osha.gov/recordkeeping/
 contact:
   - contact-osha
+elaws:
+  - elaws-osha
 ---

@@ -25,4 +25,6 @@ related_links:
     url: https://www.osha.gov/Publications/osha3021.pdf
 contact:
   - contact-osha-retaliation
+elaws:
+  - elaws-osha
 ---
