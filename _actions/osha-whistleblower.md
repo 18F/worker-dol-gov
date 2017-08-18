@@ -4,7 +4,7 @@ layout: process
 header: Filing a complaint with OSHA
 
 steps:
-  - text: Gather information to file your complaint
+  - text: "Gather information to file your complaint:"
     subpoints:
       - Your name, address, and telephone number
       - The name, address, and telephone number of the employer (or employment agency) you want to file a complaint against
