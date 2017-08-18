@@ -7,7 +7,7 @@
 
 # Site settings
 title: Worker.gov
-description: This site covers common workplace concerns and the federal laws that protect you. See how federal laws protect you from common workplace concerns, and learn about how to take action if you believe your rights were violated.
+description: This site covers common workplace concerns and the federal laws that protect workers in the United States. See how federal laws protect you, and learn how to take action if you believe your rights were violated.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://worker.gov" # the base hostname & protocol for your site
 twitter_username: USDOL
