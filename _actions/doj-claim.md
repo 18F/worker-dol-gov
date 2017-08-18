@@ -4,7 +4,7 @@ layout: process
 header: Filing a complaint with the DOJ
 
 steps:
-  - text: Gather information to file your complaint
+  - text: "Gather information to file your complaint:"
     subpoints:
       - Your name, address, and telephone number
       - Your citizenship or immigration status (such as residency or visa details) and national origin
