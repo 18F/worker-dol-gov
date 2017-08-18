@@ -1,7 +1,7 @@
 ---
-title: NLRB Claim
+title: NLRB Complaint
 layout: process
-header: Filing a claim with NLRB
+header: Filing a complaint with the NLRB
 
 steps:
   - text: "Fill out the form by hitting file now below or contact your regional office within 6 months of the perceived offense."

@@ -1,7 +1,7 @@
 ---
-title: WHD Claim
+title: WHD Complaint
 layout: process
-header: Filing a complaint with the Wage and Hour Division
+header: Filing a complaint with Wage and Hour
 
 steps:
   - text: "Start the process by clicking and filling out the form below or call 1-866-487-9243."

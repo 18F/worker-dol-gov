@@ -1,5 +1,5 @@
 ---
-title: OSHA Claim
+title: OSHA Complaint
 layout: process
 header: Filing a complaint with OSHA
 

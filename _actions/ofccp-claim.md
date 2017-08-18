@@ -1,7 +1,7 @@
 ---
-title: OFCCP Claim
+title: OFCCP Complaint
 layout: process
-header: Filing a claim with OFCCP
+header: Filing a complaint with the OFCCP
 
 steps:
   - text: "Download the form in the language you prefer: English, Chinese Traditional (Cantonese), Chinese Simplified (Mandarin), French, Korean, Spanish, Vietnamese"
