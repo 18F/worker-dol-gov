@@ -10,9 +10,10 @@ layout: content
 	<h1>{{page.title}}</h1>
 	<div class="main-content">
 		<p>{{page.mission}}</p>
-		<div class="sidebar__box sidebar__box--blue">
-			<h3>Examples</h3>
-			<ul>
+		<div class="section">
+			<p><strong>Tell us about your concern, so you can learn about your rights and find out who to contact if you need more information.</strong></p>
+			<h3 class="sidebar-title">Common concerns</h3>
+			<ul class="concern-examples">
 				{% assign concerns = site.concerns | sort: 'order' %}
 				{% for concern in concerns %}
 					{% if concern.right == page.right and concern.summary %}

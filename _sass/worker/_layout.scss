@@ -79,16 +79,17 @@
   }
 }
 
+.sidebar__box h3,
+.sidebar-title {
+  color: $w-gray-2;
+  margin-bottom: 1.5rem;
+  font-size: 1.7rem;
+}
+
 .sidebar__box {
   font-size: 1.5rem;
   margin-top: 2rem;
   padding: 2rem;
-
-  h3 {
-    color: $w-gray-2;
-    margin-bottom: 1.5rem;
-    font-size: 1.7rem;
-  }
 
   h3 + p {
     margin-top: 0;
