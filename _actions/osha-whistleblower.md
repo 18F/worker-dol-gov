@@ -1,6 +1,6 @@
 ---
 title: OSHA Complaint
-layout: process
+layout: action
 header: Filing a complaint with OSHA
 
 steps:

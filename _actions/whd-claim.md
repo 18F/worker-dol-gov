@@ -1,7 +1,6 @@
 ---
 title: WHD Complaint
-layout: process
-exit:
+layout: action
 header: Filing a complaint with Wage and Hour
 
 steps:

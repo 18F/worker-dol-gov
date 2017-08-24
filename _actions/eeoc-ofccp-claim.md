@@ -1,7 +1,6 @@
 ---
 title: EEOC Complaint
-layout: process
-exit: https://www.eeoc.gov/employees/howtofile.cfm
+layout: action
 header: Filing a complaint with the OFFCP or EEOC
 
 steps:

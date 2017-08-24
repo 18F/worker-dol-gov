@@ -1,6 +1,6 @@
 ---
 title: EEOC Complaint
-layout: process
+layout: action
 header: Filing a complaint with the EEOC
 
 steps:

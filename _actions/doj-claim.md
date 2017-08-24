@@ -1,6 +1,6 @@
 ---
 title: DOJ Complaint
-layout: process
+layout: action
 header: Filing a complaint with the DOJ
 
 steps:

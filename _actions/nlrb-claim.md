@@ -1,6 +1,6 @@
 ---
 title: NLRB Complaint
-layout: process
+layout: action
 header: Filing a complaint with the NLRB
 
 steps:
