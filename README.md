@@ -5,6 +5,12 @@ This is the public repo for [Worker.gov](http://worker.gov/), which is a tool to
 ## Development
 Worker.gov is a [Jekyll](http://jekyllrb.com/) site. For full instructions no using Jekyll, refer to the [Jekyll documentation](http://jekyllrb.com/docs/home/).
 
+After cloning the repo, install Jekyll and any necessary dependency using:
+
+```bash
+bundle install
+```
+
 To run the site locally, from the project folder, run:
 
 ```bash
