@@ -19,7 +19,7 @@ There are three primary types of pages to know about: concerns pages (e.g. "I wa
 ### Concerns
 The concern page front matter:
 
-```
+```yaml
 # The title of the page
 title: Age
 
