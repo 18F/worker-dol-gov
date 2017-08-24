@@ -13,67 +13,13 @@ jekyll serve
 
 This will compile the site into the `_site/` folder and run a server.
 
-## Editing content
-There are three primary types of pages to know about: concerns pages (e.g. "I was treated unfairly because of my age"), rights pages (e.g. "Equality rights") and action pages (e.g. "DOJ Complaint"). The three types of pages live in their respective folders: `_concerns`, `_rights`, and `_actions`. Each page type uses [YAML front matter](http://jekyllrb.com/docs/frontmatter/) for defining various properties.
+If you just want to generate the static site once, run:
 
-### Concerns
-The concern page front matter:
-
-```yaml
-# The title of the page
-title: Age
-
-# The layout template to use, always concern-details
-layout: concern-details
-
-# The concern category, i.e. which accordion item, it falls under
-# Can be one or more items
-concern:
- - I was treated unfairly
- - I was fired or not hired
-
-# The right that this applies to. Can be one more more items
-right: equality-rights
-
-# The sentence that describes the concern. This is what is displayed in the accordion and on rights pages
-summary: "I was treated unfairly because of my age"
-
-# Optional: The order that the concern should be listed in, both in the accordion and on the rights page
-# If empty, they'll just be sorted alphabetically
-order: 1
-
-# The name of the "blurb" partial to include at the top of the concern page
-blurb: equality
-
-# The action page or pages to link to
-actions:
-  - action: eeoc-claim
-    label: Learn more
-
-# The related links to include in the sidebar
-related_links:
-  - title: "Age Discrimination"
-    url: https://www.eeoc.gov/laws/types/age.cfm
-  - title: "Facts About Age Discrimination"
-    url: https://www.eeoc.gov/eeoc/publications/age.cfm
-  - title: "Age Discrimination"
-    url: https://www.dol.gov/general/topic/discrimination/agedisc
-
-# The name of the "contactinfo" blurb to include
-contact:
-  - contact-eeoc
----
+```bash
+jekyll build
 ```
 
-In addition to the front matter, concern pages have a content area. This is output between the blurb and the contact information on the page.
-
-### Rights
-
-
-### Actions
-
-### Blurbs, contact info and sidebars
-
+For a guide to understanding the site data structure and how to edit content, [please see the wiki](https://github.com/18F/worker-dol-gov/wiki/1.-Editing-guide:-Site-data-structure).
 
 ## Styles
 The site uses the U.S. Web Design Standards as a base set of styles, but then adds and modifies several styles.
