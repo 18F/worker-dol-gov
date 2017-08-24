@@ -1,6 +1,6 @@
 ---
 title: OFCCP Complaint
-layout: process
+layout: action
 header: Filing a complaint with the OFCCP
 
 steps:

@@ -6,7 +6,6 @@ layout: concern-details
 # Metadata
 concern:
   - My employer doesn’t allow me to talk with coworkers about wages or working conditions
-detail: forming a union
 right: organizing-rights
 summary: "Our boss refuses to bargain with us because we formed a union"
 

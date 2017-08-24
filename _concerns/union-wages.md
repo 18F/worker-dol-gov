@@ -7,7 +7,6 @@ layout: concern-details
 concern:
   - My employer doesn’t allow me to talk with coworkers about wages or working conditions
   - I was threatened or retaliated against
-detail: safety
 right: organizing-rights
 summary: "Our boss threatened to fire us for complaining about wages"
 

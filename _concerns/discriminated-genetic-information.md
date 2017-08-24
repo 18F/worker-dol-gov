@@ -7,7 +7,6 @@ layout: concern-details
 concern:
  - I was treated unfairly
  - I was fired or not hired
-detail: genetic information
 right: equality-rights
 summary: "I was treated unfairly because of my family medical history"
 

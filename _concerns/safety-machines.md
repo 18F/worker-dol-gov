@@ -5,7 +5,6 @@ layout: concern-details
 
 # Metadata
 concern: I don’t feel safe at work
-detail: unsafe machines
 right: safety-rights
 summary: "I’m working on machines that are unsafe"
 

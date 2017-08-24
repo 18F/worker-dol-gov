@@ -7,7 +7,6 @@ layout: concern-details
 concern:
   - I wasn’t paid properly
   - I want to report a different issue
-detail: family medical leave
 right: wage-rights
 summary: "I’m not getting the family or medical leave I’m entitled to"
 order: 5

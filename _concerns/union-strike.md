@@ -7,7 +7,6 @@ layout: concern-details
 concern:
   - My employer doesn’t allow me to talk with coworkers about wages or working conditions
   - I was threatened or retaliated against
-detail: strike
 right: organizing-rights
 summary: "I was fired after going on strike"
 

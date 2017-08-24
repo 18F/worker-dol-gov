@@ -7,7 +7,6 @@ layout: concern-details
 concern:
  - I was treated unfairly
  - I was fired or not hired
-detail: reporting discrimination
 right: equality-rights
 summary: "I was fired or not hired for reporting discrimination"
 
@@ -47,4 +46,3 @@ In general, this means that you cannot be:
 - forced to take leave
 
 for reporting discrimination.
-

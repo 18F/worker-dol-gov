@@ -7,7 +7,6 @@ layout: concern-details
 concern:
   - I was treated unfairly
   - I want to report a different issue
-detail: citizenship or immigration status
 right: equality-rights
 summary: "I was asked to show more documentation than other people"
 

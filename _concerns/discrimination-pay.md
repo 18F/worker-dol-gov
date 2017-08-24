@@ -7,7 +7,6 @@ layout: concern-details
 concern:
  - I wasn’t paid properly
  - I was treated unfairly
-detail: compensation
 right: equality-rights
 summary: "I’m not receiving equal pay for equal work"
 
