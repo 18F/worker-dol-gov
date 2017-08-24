@@ -7,7 +7,6 @@ layout: concern-details
 concern:
   - I don’t feel safe at work
   - I was threatened or retaliated against
-detail: whistleblower
 right: safety-rights
 summary: "I was fired or threatened for reporting a safety issue"
 

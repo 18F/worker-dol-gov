@@ -5,7 +5,6 @@ layout: concern-details
 
 # Metadata
 concern: I don’t feel safe at work
-detail: unsafe machines
 right: safety-rights
 summary: "No one is giving me required safety gear (such as gloves or a harness and lifeline)"
 

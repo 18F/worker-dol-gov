@@ -7,7 +7,6 @@ layout: concern-details
 concern:
   - My employer doesn’t allow me to talk with coworkers about wages or working conditions
   - I was threatened or retaliated against
-detail: forming a union
 right: organizing-rights
 summary: "I was told I would lose my job if I didn’t support the union"
 

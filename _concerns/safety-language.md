@@ -5,7 +5,6 @@ layout: concern-details
 
 # Metadata
 concern: I don’t feel safe at work
-detail: language
 right: safety-rights
 summary: "I wasn’t trained in a language I understand"
 

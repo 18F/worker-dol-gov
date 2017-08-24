@@ -7,7 +7,6 @@ layout: concern-details
 concern:
   - My employer doesn’t allow me to talk with coworkers about wages or working conditions
   - I wasn’t paid properly
-detail: employee handbook
 right: organizing-rights
 summary: "I’m afraid to talk with my coworkers about wages because our handbook prohibits it"
 

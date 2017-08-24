@@ -5,7 +5,6 @@ layout: concern-details
 
 # Metadata
 concern: I wasn’t paid properly
-detail: hours
 right: wage-rights
 summary: "I didn’t get paid for time I worked"
 order: 1

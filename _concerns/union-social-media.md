@@ -7,7 +7,6 @@ layout: concern-details
 concern:
   - My employer doesn’t allow me to talk with coworkers about wages or working conditions
   - I was fired or not hired
-detail: social media
 right: organizing-rights
 summary: "I was fired for chatting about my supervisor with coworkers on Facebook"
 

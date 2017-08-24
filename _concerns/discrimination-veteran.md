@@ -7,7 +7,6 @@ layout: concern-details
 concern:
  - I was treated unfairly
  - I was fired or not hired
-detail: veteran
 right: equality-rights
 summary: "I was treated unfairly because I am a veteran"
 

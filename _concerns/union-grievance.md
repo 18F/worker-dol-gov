@@ -7,7 +7,6 @@ layout: concern-details
 concern:
   - My employer doesn’t allow me to talk with coworkers about wages or working conditions
   - I was threatened or retaliated against
-detail: forming a union
 right: organizing-rights
 summary: "My union refused to process my grievance because I criticized union officials"
 

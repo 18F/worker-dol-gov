@@ -7,7 +7,6 @@ layout: concern-details
 concern:
   - I don’t feel safe at work
   - I was threatened or retaliated against
-detail: injury
 right: safety-rights
 summary: "My employer blames me for being injured on the job"
 

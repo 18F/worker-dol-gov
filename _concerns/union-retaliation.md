@@ -7,7 +7,6 @@ layout: concern-details
 concern:
   - My employer doesn’t allow me to talk with coworkers about wages or working conditions
   - I was fired or not hired
-detail: union steward
 right: organizing-rights
 summary: "I wasn’t hired because of my reputation as a union supporter"
 
