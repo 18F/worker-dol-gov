@@ -3,7 +3,7 @@
 This is the public repo for [Worker.gov](http://worker.gov/), which is a tool to help workers learn about and exercise their rights. It represents a joint effort by the U.S. Department of Labor, the Equal Employment Opportunity Commission, the National Labor Relations Board, and the Department of Justice.
 
 ## Development
-Worker.gov is a [Jekyll](http://jekyllrb.com/) site. For full instructions no using Jekyll, refer to the [Jekyll documentation](http://jekyllrb.com/docs/home/).
+Worker.gov is a [Jekyll](http://jekyllrb.com/) site. For full instructions on using Jekyll, refer to the [Jekyll documentation](http://jekyllrb.com/docs/home/).
 
 After cloning the repo, install Jekyll and any necessary dependency using:
 
